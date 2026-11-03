@@ -1,1 +1,1 @@
-<img width="1120" height="440" alt="Redonda · Logo con nombre@1x" src="https://github.com/user-attachments/assets/1686b7af-ea59-498f-9251-880d78bf71c3" />
+<img width="2240" height="880" alt="Nombre sin logo@2x" src="https://github.com/user-attachments/assets/3c598614-332a-4762-8620-55aa1802d70e" />
