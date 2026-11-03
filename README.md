@@ -1,1 +1,2 @@
-<img width="2240" height="880" alt="Nombre sin logo@2x" src="https://github.com/user-attachments/assets/0180713c-810f-466b-a541-d4a329288490" />
+<img width="1120" height="440" alt="Nombre sin logo@1x" src="https://github.com/user-attachments/assets/a48a6a01-ded0-4617-9c2c-6b7961153033" />
+
