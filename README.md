@@ -1,27 +1,22 @@
-<img width="1584" height="396" alt="Banner (1584 × 396)@1x" src="https://github.com/user-attachments/assets/9c09400c-e742-49d9-8f4b-4bf2b800af2f" />
+<img width="800" alt="Banner" src="https://github.com/user-attachments/assets/9c09400c-e742-49d9-8f4b-4bf2b800af2f" />
 
-## CONTACTO
+## About
 
-<a href="https://www.linkedin.com/in/sofía-sánchez-guillán-77a977410/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+I'm a third-year Mathematical Engineering and AI student at ICAI–Universidad Pontificia Comillas. I'm building a strong foundation in mathematics and artificial intelligence, with a particular interest in statistics and probability, machine learning, optimisation, and time-series forecasting. I'm especially interested in how these fields can support decision-making in banking, consulting, and data analytics.
 
-## FORMACIÓN
+During my degree, I've worked on projects involving machine learning, data collection and visualisation, databases, and graph algorithms. I mainly use Python, SQL, R, and C#.
 
-| IA y Machine Learning | Matemáticas | Datos y Software | Sistemas |
-|---|---|---|---|
-| Fundamentos de IA | Álgebra y Geometría | Programación | Física |
-| Aprendizaje Automático | Análisis y Cálculo Vectorial | Algoritmos y Estructuras de Datos | Sistemas Electrónicos |
-| Cognición Humana e IA | Probabilidad y Estadística | Bases de Datos | Sistemas de Control |
-| Visión por Ordenador | Ecuaciones Diferenciales | Adquisición y Visualización de Datos | |
-| Series Temporales y Forecasting | Matemática Discreta | Fundamentos de Sistemas de Información | |
-| | Métodos Numéricos | Paradigmas y Técnicas de Programación | |
-| | Optimización y Simulación | | |
-| | Geometría Computacional | | |
+## Selected projects
 
-## TECNOLOGÍAS
+| Project | Description | Main tools |
+|---|---|---|
+| [proyecto-Machine-Learning](https://github.com/ssanchezguillan/proyecto-Machine-Learning) | Final machine learning project on student performance data: multiclass classification (weighted F1 0.74), regression (R² 0.79) and clustering, with care to avoid data leakage. | Python, scikit-learn, pandas |
+| [proyecto-final-bases-de-datos](https://github.com/ssanchezguillan/proyecto-final-bases-de-datos) | Final databases project built around a graph database (Neo4j), with a recommender system and interactive visualisation. | Python, Neo4j |
+| [practica_final_streamlit](https://github.com/ssanchezguillan/practica_final_streamlit) | Final project built as an interactive Streamlit application. | Python, Streamlit |
 
-**Lenguajes**
+## Tools
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +28,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-**Análisis de datos**
+**Data analysis**
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -41,7 +36,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </p>
 
-**Datos: adquisición y visualización**
+**Data acquisition and visualisation**
 
 <p>
   <img src="https://img.shields.io/badge/Web%20Scraping-2E3440?style=for-the-badge" />
@@ -51,14 +46,14 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-**Machine Learning y Visión por Ordenador**
+**Machine learning and computer vision**
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-**Bases de datos**
+**Databases**
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -67,21 +62,16 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-**Optimización**
+**Optimisation and mathematics**
 
 <p>
   <img src="https://img.shields.io/badge/Pyomo-0B3D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HiGHS-1F6FEB?style=for-the-badge" />
-</p>
-
-**Matemáticas y geometría**
-
-<p>
   <img src="https://img.shields.io/badge/SageMath-3E5E9E?style=for-the-badge&logo=sagemath&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoGebra-666699?style=for-the-badge&logo=geogebra&logoColor=white" />
 </p>
 
-**Simulación, control y robótica**
+**Simulation, control and robotics**
 
 <p>
   <img src="https://img.shields.io/badge/Simulink-E16737?style=for-the-badge" />
@@ -90,7 +80,7 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-**Entorno de desarrollo**
+**Development environment**
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -102,3 +92,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/sofía-sánchez-guillán-77a977410/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
